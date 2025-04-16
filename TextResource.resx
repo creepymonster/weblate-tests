@@ -121,9 +121,6 @@
             PublicKeyToken=b77a5c561934e089
         </value>
   </resheader>
-  <data name="new_key" xml:space="preserve">
-        <value>Neuer Eintrag</value>
-  </data>
   <data name="debug" xml:space="preserve">
         <value>Debug</value>
   </data>

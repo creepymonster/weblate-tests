@@ -83,40 +83,40 @@
     <value>{0} ist im Status "{1}" nicht möglich.</value>
   </data>
   <data name="add_prequalification" xml:space="preserve">
-    <value>PQ-Antrag</value>
+    <value>PQ request</value>
   </data>
   <data name="add_prequalification_failed" xml:space="preserve">
-    <value>Antrag konnte nicht erstellt werden</value>
+    <value>Request could not be created</value>
   </data>
   <data name="add_prequalification_succeeded" xml:space="preserve">
-    <value>Antrag erstellt</value>
+    <value>Request created</value>
   </data>
   <data name="all" xml:space="preserve">
-    <value>Alle</value>
+    <value>All</value>
   </data>
   <data name="api_clients" xml:space="preserve">
-    <value>API-Clients</value>
+    <value>API clients</value>
   </data>
   <data name="api_clients_selected" xml:space="preserve">
-    <value>{0} API-Clients ausgewählt</value>
+    <value>{0} API clients selected</value>
   </data>
   <data name="api_client_created" xml:space="preserve">
-    <value>API-Client hinzugefügt</value>
+    <value>API client added</value>
   </data>
   <data name="api_client_selected" xml:space="preserve">
-    <value>{0} API-Client ausgewählt</value>
+    <value>{0} API client selected</value>
   </data>
   <data name="apply_data_as_confirmed" xml:space="preserve">
-    <value>Daten übernehmen</value>
+    <value>Take over data</value>
   </data>
   <data name="archive" xml:space="preserve">
-    <value>Archiv</value>
+    <value>Archive</value>
   </data>
   <data name="archived_concepts_cannot_be_edited" xml:space="preserve">
-    <value>Archivierte Konzepte können nicht bearbeitet werden.</value>
+    <value>Archived concepts cannot be edited.</value>
   </data>
   <data name="archive_date" xml:space="preserve">
-    <value>Datum der Archivierung</value>
+    <value>Archiving date</value>
   </data>
   <data name="attention" xml:space="preserve">
     <value>Achtung</value>

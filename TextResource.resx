@@ -122,6 +122,9 @@
         </value>
   </resheader>
   <data name="action" xml:space="preserve">
+        <value>Aktion</value>
+  </data>
+  <data name="actions" xml:space="preserve">
         <value>Aktionen</value>
   </data>
   <data name="action_x_not_possible_in_status_y" xml:space="preserve">

@@ -76,9 +76,6 @@
   <data name="add_concept" xml:space="preserve">
     <value>Add concept</value>
   </data>
-  <data name="dummy" xml:space="preserve">
-    <value>Dummy</value>
-  </data>
   <data name="action_x_not_possible_in_status_y" xml:space="preserve">
     <value>{0} ist im Status "{1}" nicht möglich.</value>
   </data>
@@ -1443,5 +1440,8 @@
   </data>
   <data name="search_pq_id_help" xml:space="preserve">
     <value>PQIDs können mit oder ohne führende Nullen gesucht und mit Leerzeichen verkettet werden</value>
+  </data>
+  <data name="debug" xml:space="preserve">
+    <value>Debug</value>
   </data>
 </root>

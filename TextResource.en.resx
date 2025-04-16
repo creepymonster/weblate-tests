@@ -76,4 +76,1372 @@
   <data name="add_concept" xml:space="preserve">
     <value>Add concept</value>
   </data>
+  <data name="dummy" xml:space="preserve">
+    <value>Dummy</value>
+  </data>
+  <data name="action_x_not_possible_in_status_y" xml:space="preserve">
+    <value>{0} ist im Status "{1}" nicht möglich.</value>
+  </data>
+  <data name="add_prequalification" xml:space="preserve">
+    <value>PQ-Antrag</value>
+  </data>
+  <data name="add_prequalification_failed" xml:space="preserve">
+    <value>Antrag konnte nicht erstellt werden</value>
+  </data>
+  <data name="add_prequalification_succeeded" xml:space="preserve">
+    <value>Antrag erstellt</value>
+  </data>
+  <data name="all" xml:space="preserve">
+    <value>Alle</value>
+  </data>
+  <data name="api_clients" xml:space="preserve">
+    <value>API-Clients</value>
+  </data>
+  <data name="api_clients_selected" xml:space="preserve">
+    <value>{0} API-Clients ausgewählt</value>
+  </data>
+  <data name="api_client_created" xml:space="preserve">
+    <value>API-Client hinzugefügt</value>
+  </data>
+  <data name="api_client_selected" xml:space="preserve">
+    <value>{0} API-Client ausgewählt</value>
+  </data>
+  <data name="apply_data_as_confirmed" xml:space="preserve">
+    <value>Daten übernehmen</value>
+  </data>
+  <data name="archive" xml:space="preserve">
+    <value>Archiv</value>
+  </data>
+  <data name="archived_concepts_cannot_be_edited" xml:space="preserve">
+    <value>Archivierte Konzepte können nicht bearbeitet werden.</value>
+  </data>
+  <data name="archive_date" xml:space="preserve">
+    <value>Datum der Archivierung</value>
+  </data>
+  <data name="attention" xml:space="preserve">
+    <value>Achtung</value>
+  </data>
+  <data name="balancing_service_provider" xml:space="preserve">
+    <value>Anbieter</value>
+  </data>
+  <data name="balancing_service_providers" xml:space="preserve">
+    <value>Anbieter</value>
+  </data>
+  <data name="balancing_service_provider_s" xml:space="preserve">
+    <value>Anbieter</value>
+  </data>
+  <data name="cancel" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="changelog" xml:space="preserve">
+    <value>Release Notes</value>
+  </data>
+  <data name="check_bench" xml:space="preserve">
+    <value>Prüfstand</value>
+  </data>
+  <data name="client_created_advice" xml:space="preserve">
+    <value>Bitte speichern Sie das ClientSecret für den generierten Client - es ist nicht möglich, das ClientSecret zu einem späteren Zeitpunkt noch einmal anzuzeigen.</value>
+  </data>
+  <data name="client_id" xml:space="preserve">
+    <value>ClientId</value>
+  </data>
+  <data name="client_secret" xml:space="preserve">
+    <value>Client Secret</value>
+  </data>
+  <data name="close" xml:space="preserve">
+    <value>Schließen</value>
+  </data>
+  <data name="comment" xml:space="preserve">
+    <value>Kommentar</value>
+  </data>
+  <data name="comments" xml:space="preserve">
+    <value>Kommentare</value>
+  </data>
+  <data name="comment_created" xml:space="preserve">
+    <value>Kommentar hinzugefügt</value>
+  </data>
+  <data name="concept" xml:space="preserve">
+    <value>Erbringungskonzept</value>
+  </data>
+  <data name="concepts" xml:space="preserve">
+    <value>Erbringungskonzepte</value>
+  </data>
+  <data name="concepts_with_status_cannot_be_edited" xml:space="preserve">
+    <value>Konzepte im Status "{0}" können nicht bearbeitet werden.</value>
+  </data>
+  <data name="concept_archive_access_denied" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Erbringungskonzept zu archivieren.</value>
+  </data>
+  <data name="concept_archive_bad_argument" xml:space="preserve">
+    <value>Dieses Erbringungskonzept darf nicht archiviert werden.</value>
+  </data>
+  <data name="concept_archive_principal_does_not_have_permission" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Erbringungskonzept zu archivieren.</value>
+  </data>
+  <data name="concept_connections" xml:space="preserve">
+    <value>Verknüpfungen</value>
+  </data>
+  <data name="concept_connection_disconnect_access_denied" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, diese Verknüpfung zu entfernen.</value>
+  </data>
+  <data name="concept_connection_disconnect_association_not_found" xml:space="preserve">
+    <value>Die Verknüpfung wurde nicht gefunden und kann daher nicht entfernt werden.</value>
+  </data>
+  <data name="concept_connection_disconnect_bad_argument" xml:space="preserve">
+    <value>Diese Verknüpfung darf nicht entfernt werden.</value>
+  </data>
+  <data name="concept_connection_disconnect_contract_not_found" xml:space="preserve">
+    <value>Die Verknüpfung wurde nicht gefunden und kann daher nicht entfernt werden.</value>
+  </data>
+  <data name="concept_connection_disconnect_principal_does_not_have_permission" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, diese Verknüpfung zu entfernen.</value>
+  </data>
+  <data name="concept_connection_disconnect_reserve_resource_not_found" xml:space="preserve">
+    <value>Die Verknüpfung wurde nicht gefunden und kann daher nicht entfernt werden.</value>
+  </data>
+  <data name="concept_connect_contracts_select_products_advice" xml:space="preserve">
+    <value>Wählen Sie pro Vertrag die Produkte aus, wofür das Konzept geeignet ist und Sie es verknüpfen möchten.</value>
+  </data>
+  <data name="concept_connect_contracts_visible_entities_advice" xml:space="preserve">
+    <value>Es stehen nur Verträge zur Auswahl, deren Stammdaten zu den Metainformationen des Konzepts passen.</value>
+  </data>
+  <data name="concept_connect_entities_advice" xml:space="preserve">
+    <value>Bestehende Verknüpfungen zu anderen Konzepten werden bei Auswahl ersetzt.</value>
+  </data>
+  <data name="concept_connect_reserve_resources_select_products_advice" xml:space="preserve">
+    <value>Wählen Sie pro Einheit die Produkte aus, wofür das Konzept geeignet ist und Sie es verknüpfen möchten.</value>
+  </data>
+  <data name="concept_connect_reserve_resources_visible_entities_advice" xml:space="preserve">
+    <value>Es stehen nur Einheiten zur Auswahl, deren Stammdaten zu den Metainformationen des Konzepts passen.</value>
+  </data>
+  <data name="concept_created" xml:space="preserve">
+    <value>Konzept erstellt</value>
+  </data>
+  <data name="concept_level" xml:space="preserve">
+    <value>Ebene</value>
+  </data>
+  <data name="concept_levels" xml:space="preserve">
+    <value>Ebenen</value>
+  </data>
+  <data name="concept_level_it" xml:space="preserve">
+    <value>Vertrag, IT-Konzept</value>
+  </data>
+  <data name="concept_level_pool" xml:space="preserve">
+    <value>Vertrag, Pool-Erbringungskonzept</value>
+  </data>
+  <data name="concept_level_reserve_group" xml:space="preserve">
+    <value>Reservegruppe</value>
+  </data>
+  <data name="concept_level_reserve_unit" xml:space="preserve">
+    <value>Reserveeinheit</value>
+  </data>
+  <data name="concept_level_s" xml:space="preserve">
+    <value>Ebene(n)</value>
+  </data>
+  <data name="concept_level_technical_unit" xml:space="preserve">
+    <value>Technische Einheit</value>
+  </data>
+  <data name="concept_lock_access_denied" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept zu sperren.</value>
+  </data>
+  <data name="concept_lock_bad_argument" xml:space="preserve">
+    <value>Dieses Konzept darf nicht gesperrt werden.</value>
+  </data>
+  <data name="concept_lock_principal_does_not_have_permission" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept zu sperren.</value>
+  </data>
+  <data name="concept_reject_access_denied" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept abzulehnen.</value>
+  </data>
+  <data name="concept_reject_bad_argument" xml:space="preserve">
+    <value>Dieses Konzept darf nicht abgelehnt werden.</value>
+  </data>
+  <data name="concept_reject_principal_does_not_have_permission" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept abzulehnen.</value>
+  </data>
+  <data name="concept_release_access_denied" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept freizugeben.</value>
+  </data>
+  <data name="concept_release_bad_argument" xml:space="preserve">
+    <value>Dieses Konzept darf nicht freigegeben werden.</value>
+  </data>
+  <data name="concept_release_principal_does_not_have_permission" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept freizugeben.</value>
+  </data>
+  <data name="concept_request_release_access_denied" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, für dieses Konzept eine Freigabe anzufordern.</value>
+  </data>
+  <data name="concept_request_release_bad_argument" xml:space="preserve">
+    <value>Für dieses Konzept darf keine Freigabe angefordert werden.</value>
+  </data>
+  <data name="concept_request_release_principal_does_not_have_permission" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, für dieses Konzept eine Freigabe anzufordern.</value>
+  </data>
+  <data name="concept_revise_access_denied" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept zu überarbeiten.</value>
+  </data>
+  <data name="concept_revise_bad_argument" xml:space="preserve">
+    <value>Dieses Konzept darf nicht überarbeitet werden.</value>
+  </data>
+  <data name="concept_revise_principal_does_not_have_permission" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept zu überarbeiten.</value>
+  </data>
+  <data name="concept_state_in_process" xml:space="preserve">
+    <value>In Bearbeitung</value>
+  </data>
+  <data name="concept_state_locked" xml:space="preserve">
+    <value>Gesperrt</value>
+  </data>
+  <data name="concept_state_rejected" xml:space="preserve">
+    <value>Abgelehnt</value>
+  </data>
+  <data name="concept_state_released" xml:space="preserve">
+    <value>Freigegeben</value>
+  </data>
+  <data name="concept_state_waiting_for_release" xml:space="preserve">
+    <value>Wartet auf Freigabe</value>
+  </data>
+  <data name="concept_unarchive_access_denied" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept wiederherzustellen.</value>
+  </data>
+  <data name="concept_unarchive_bad_argument" xml:space="preserve">
+    <value>Dieses Konzept darf nicht wiederhergestellt werden.</value>
+  </data>
+  <data name="concept_unarchive_principal_does_not_have_permission" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, dieses Konzept wiederherzustellen.</value>
+  </data>
+  <data name="confirm" xml:space="preserve">
+    <value>Bestätigen</value>
+  </data>
+  <data name="confirm_api_clients_deletion" xml:space="preserve">
+    <value>Möchten Sie die {0} API-Clients entfernen?</value>
+  </data>
+  <data name="confirm_api_clients_deletion_title" xml:space="preserve">
+    <value>API-Clients entfernen</value>
+  </data>
+  <data name="confirm_api_client_deletion" xml:space="preserve">
+    <value>Möchten Sie den API-Client entfernen?</value>
+  </data>
+  <data name="confirm_api_client_deletion_title" xml:space="preserve">
+    <value>API-Client entfernen</value>
+  </data>
+  <data name="confirm_concept_description_change" xml:space="preserve">
+    <value>Möchten Sie die vorgenommenen Änderungen speichern?</value>
+  </data>
+  <data name="confirm_concept_description_change_title" xml:space="preserve">
+    <value>Bearbeitung der Bezeichnung abschließen</value>
+  </data>
+  <data name="confirm_energy_management" xml:space="preserve">
+    <value>Energiewirtschaft bestätigen</value>
+  </data>
+  <data name="confirm_energy_management_system_management" xml:space="preserve">
+    <value>Energiewirtschaft / Systemführung bestätigen</value>
+  </data>
+  <data name="confirm_overwrite_comment" xml:space="preserve">
+    <value>Kommentar überschreiben</value>
+  </data>
+  <data name="confirm_send_preannouncement" xml:space="preserve">
+    <value>Möchten Sie die API Release Vorankündigung verschicken?</value>
+  </data>
+  <data name="confirm_send_preannouncement_title" xml:space="preserve">
+    <value>API Vorankündigung</value>
+  </data>
+  <data name="confirm_send_release_announcement" xml:space="preserve">
+    <value>Möchten Sie die API Release Notes verschicken?</value>
+  </data>
+  <data name="confirm_send_release_announcement_title" xml:space="preserve">
+    <value>API Release</value>
+  </data>
+  <data name="confirm_system_management" xml:space="preserve">
+    <value>Systemführung bestätigen</value>
+  </data>
+  <data name="connect" xml:space="preserve">
+    <value>Verknüpfen</value>
+  </data>
+  <data name="connections" xml:space="preserve">
+    <value>Verknüpfungen</value>
+  </data>
+  <data name="connection_number" xml:space="preserve">
+    <value>Nummer</value>
+  </data>
+  <data name="connect_contracts" xml:space="preserve">
+    <value>Verträge verknüpfen</value>
+  </data>
+  <data name="connect_reserve_resources" xml:space="preserve">
+    <value>Einheiten verknüpfen</value>
+  </data>
+  <data name="contact" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="contracts" xml:space="preserve">
+    <value>Verträge</value>
+  </data>
+  <data name="contract_description" xml:space="preserve">
+    <value>Bezeichnung des Vertrags</value>
+  </data>
+  <data name="contract_number" xml:space="preserve">
+    <value>Nummer des Vertrags</value>
+  </data>
+  <data name="control_area" xml:space="preserve">
+    <value>Regelzone</value>
+  </data>
+  <data name="control_type" xml:space="preserve">
+    <value>Regelreserveart</value>
+  </data>
+  <data name="control_types" xml:space="preserve">
+    <value>Regelreservearten</value>
+  </data>
+  <data name="control_type_s" xml:space="preserve">
+    <value>Regelreserveart(en)</value>
+  </data>
+  <data name="copy_of_afrr" xml:space="preserve">
+    <value>von aFRR</value>
+  </data>
+  <data name="core_data" xml:space="preserve">
+    <value>Stammdaten</value>
+  </data>
+  <data name="create" xml:space="preserve">
+    <value>Erstellen</value>
+  </data>
+  <data name="culture_code" xml:space="preserve">
+    <value>Sprache</value>
+  </data>
+  <data name="culture_settings" xml:space="preserve">
+    <value>Spracheinstellungen</value>
+  </data>
+  <data name="current_comment_will_be_overwritten" xml:space="preserve">
+    <value>Achtung: Beim Hinzufügen eines neuen Kommentars wird der vorhandene überschrieben.</value>
+  </data>
+  <data name="data_will_be_applied_for_the_following_prequalifications" xml:space="preserve">
+    <value>Daten übernehmen</value>
+  </data>
+  <data name="date" xml:space="preserve">
+    <value>Datum</value>
+  </data>
+  <data name="delivery_concept" xml:space="preserve">
+    <value>Erbringungskonzept</value>
+  </data>
+  <data name="delivery_concepts_selected" xml:space="preserve">
+    <value>{0} Erbringungskonzepte ausgewählt</value>
+  </data>
+  <data name="delivery_concept_selected" xml:space="preserve">
+    <value>{0} Erbringungskonzept ausgewählt</value>
+  </data>
+  <data name="description" xml:space="preserve">
+    <value>Bezeichnung</value>
+  </data>
+  <data name="deselect_all" xml:space="preserve">
+    <value>Alle abwählen</value>
+  </data>
+  <data name="deselect_all_items" xml:space="preserve">
+    <value>Auswahl aufheben</value>
+  </data>
+  <data name="device" xml:space="preserve">
+    <value>Einheit</value>
+  </data>
+  <data name="devices" xml:space="preserve">
+    <value>Einheiten</value>
+  </data>
+  <data name="direction" xml:space="preserve">
+    <value>Richtung</value>
+  </data>
+  <data name="disconnect_entities" xml:space="preserve">
+    <value>Verknüpfungen lösen</value>
+  </data>
+  <data name="disconnect_entity" xml:space="preserve">
+    <value>Verknüpfung lösen</value>
+  </data>
+  <data name="document" xml:space="preserve">
+    <value>Dokument</value>
+  </data>
+  <data name="document_type" xml:space="preserve">
+    <value>Dokumenttyp</value>
+  </data>
+  <data name="double_stroke_curve" xml:space="preserve">
+    <value>Doppelhubkurve</value>
+  </data>
+  <data name="download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="downloads" xml:space="preserve">
+    <value>Downloads</value>
+  </data>
+  <data name="do_archive" xml:space="preserve">
+    <value>Archivieren</value>
+  </data>
+  <data name="do_lock" xml:space="preserve">
+    <value>Sperren</value>
+  </data>
+  <data name="duration_of_following_prequalifications_will_be_redefined" xml:space="preserve">
+    <value>Laufzeit neu festlegen</value>
+  </data>
+  <data name="edit" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
+  <data name="energy_management" xml:space="preserve">
+    <value>Energiewirtschaft</value>
+  </data>
+  <data name="energy_source" xml:space="preserve">
+    <value>Energieträger</value>
+  </data>
+  <data name="energy_sources" xml:space="preserve">
+    <value>Energieträger</value>
+  </data>
+  <data name="energy_source_s" xml:space="preserve">
+    <value>Energieträger</value>
+  </data>
+  <data name="energy_source_short" xml:space="preserve">
+    <value>ET</value>
+  </data>
+  <data name="entity_number" xml:space="preserve">
+    <value>Nummer</value>
+  </data>
+  <data name="error_has_occurred" xml:space="preserve">
+    <value>Es ist ein Fehler aufgetreten.</value>
+  </data>
+  <data name="error_input_required" xml:space="preserve">
+    <value>Das Feld {field} darf nicht leer sein.</value>
+  </data>
+  <data name="exit_portal" xml:space="preserve">
+    <value>PQ-Portal verlassen</value>
+  </data>
+  <data name="expand_less" xml:space="preserve">
+    <value>Weniger sehen</value>
+  </data>
+  <data name="expand_more" xml:space="preserve">
+    <value>Mehr sehen</value>
+  </data>
+  <data name="export" xml:space="preserve">
+    <value>Exportieren</value>
+  </data>
+  <data name="export_data" xml:space="preserve">
+    <value>Daten exportieren</value>
+  </data>
+  <data name="export_pq_data" xml:space="preserve">
+    <value>Daten exportieren</value>
+  </data>
+  <data name="export_pq_data__document_list" xml:space="preserve">
+    <value>Dokumentenliste</value>
+  </data>
+  <data name="export_pq_data__import_template" xml:space="preserve">
+    <value>Importvorlage</value>
+  </data>
+  <data name="export_pq_data__pq_data" xml:space="preserve">
+    <value>PQ-Daten</value>
+  </data>
+  <data name="file_must_be_uploaded" xml:space="preserve">
+    <value>Wählen Sie eine Datei aus.</value>
+  </data>
+  <data name="file_upload" xml:space="preserve">
+    <value>Datei</value>
+  </data>
+  <data name="filter_x" xml:space="preserve">
+    <value>{0} filtern</value>
+  </data>
+  <data name="first_name" xml:space="preserve">
+    <value>Vorname</value>
+  </data>
+  <data name="following_concepts_will_be_archived" xml:space="preserve">
+    <value>Folgende Konzepte werden archiviert</value>
+  </data>
+  <data name="following_concepts_will_be_locked" xml:space="preserve">
+    <value>Folgende Konzepte werden gesperrt</value>
+  </data>
+  <data name="following_concepts_will_be_rejected" xml:space="preserve">
+    <value>Folgende Konzepte werden abgelehnt</value>
+  </data>
+  <data name="following_concepts_will_be_released" xml:space="preserve">
+    <value>Folgende Konzepte werden freigegeben</value>
+  </data>
+  <data name="following_concepts_will_be_revised" xml:space="preserve">
+    <value>Folgende Konzepte werden überarbeitet</value>
+  </data>
+  <data name="following_concepts_will_be_unarchived" xml:space="preserve">
+    <value>Wiederherstellen</value>
+  </data>
+  <data name="following_prequalifications_will_be_confirmed" xml:space="preserve">
+    <value>Bestätigen</value>
+  </data>
+  <data name="following_prequalifications_will_be_prequalified" xml:space="preserve">
+    <value>Präqualifizieren</value>
+  </data>
+  <data name="following_prequalifications_will_be_rejected" xml:space="preserve">
+    <value>Ablehnen</value>
+  </data>
+  <data name="following_prequalifications_will_be_removed" xml:space="preserve">
+    <value>Entfernen</value>
+  </data>
+  <data name="following_prequalifications_will_be_renewed" xml:space="preserve">
+    <value>Neu bearbeiten</value>
+  </data>
+  <data name="following_prequalifications_will_be_requested" xml:space="preserve">
+    <value>Beantragen</value>
+  </data>
+  <data name="following_prequalifications_will_be_terminated" xml:space="preserve">
+    <value>Beenden</value>
+  </data>
+  <data name="following_prequalifications_will_be_withdrawn" xml:space="preserve">
+    <value>Widerrufen</value>
+  </data>
+  <data name="general_data" xml:space="preserve">
+    <value>Allgemeine Daten</value>
+  </data>
+  <data name="help_link" xml:space="preserve">
+    <value>Hilfe</value>
+  </data>
+  <data name="help_link_api_clients" xml:space="preserve">
+    <value>Benötigen Sie Hilfe bei der API Nutzung?</value>
+  </data>
+  <data name="help_prequalification_list_grid_energy_source" xml:space="preserve">
+    <value>Energieträger</value>
+  </data>
+  <data name="help_prequalification_list_grid_network_operator" xml:space="preserve">
+    <value>Anschlussnetzbetreiber</value>
+  </data>
+  <data name="help_prequalification_list_grid_power_mw_1" xml:space="preserve">
+    <value>PQ-Leistung in Megawatt</value>
+  </data>
+  <data name="help_prequalification_list_grid_power_mw_2" xml:space="preserve">
+    <value>in Planung: Antragswert</value>
+  </data>
+  <data name="help_prequalification_list_grid_power_mw_3" xml:space="preserve">
+    <value>Antrag: berechneter Wert</value>
+  </data>
+  <data name="help_prequalification_list_grid_power_mw_4" xml:space="preserve">
+    <value>PQ: bestätigter Wert</value>
+  </data>
+  <data name="help_prequalification_list_grid_proof_of_performance_1" xml:space="preserve">
+    <value>Typ des Erbringungsnachweises</value>
+  </data>
+  <data name="help_prequalification_list_grid_proof_of_performance_2" xml:space="preserve">
+    <value>DHK: Doppelhubkurve</value>
+  </data>
+  <data name="help_prequalification_list_grid_proof_of_performance_3" xml:space="preserve">
+    <value>Real: Reale Erbringung</value>
+  </data>
+  <data name="help_prequalification_list_grid_proof_of_performance_4" xml:space="preserve">
+    <value>KGB: Kenngrößenbewertung</value>
+  </data>
+  <data name="help_prequalification_list_grid_proof_of_performance_5" xml:space="preserve">
+    <value>sDHK: Synthetische DHK</value>
+  </data>
+  <data name="help_prequalification_list_grid_technical_unit_1" xml:space="preserve">
+    <value>Anzahl von Technischen Einheiten</value>
+  </data>
+  <data name="help_prequalification_list_grid_technical_unit_2" xml:space="preserve">
+    <value>Vordere Zahl: TE mit Eignung fürs Produkt</value>
+  </data>
+  <data name="help_prequalification_list_grid_technical_unit_3" xml:space="preserve">
+    <value>Hintere Zahl: TE insgesamt in der Gruppe</value>
+  </data>
+  <data name="help_prequalification_list_grid_technology" xml:space="preserve">
+    <value>Technologien</value>
+  </data>
+  <data name="import" xml:space="preserve">
+    <value>Importieren</value>
+  </data>
+  <data name="import_data" xml:space="preserve">
+    <value>Daten importieren</value>
+  </data>
+  <data name="import_pq_data" xml:space="preserve">
+    <value>Daten importieren</value>
+  </data>
+  <data name="import_pq_data__machine_data" xml:space="preserve">
+    <value>Maschinendaten</value>
+  </data>
+  <data name="import_pq_data__pq_data" xml:space="preserve">
+    <value>PQ-Daten</value>
+  </data>
+  <data name="imprint" xml:space="preserve">
+    <value>Impressum</value>
+  </data>
+  <data name="inspection_date" xml:space="preserve">
+    <value>Prüfdatum</value>
+  </data>
+  <data name="language" xml:space="preserve">
+    <value>Sprache</value>
+  </data>
+  <data name="logo_50hertz" xml:space="preserve">
+    <value>50Hertz Logo</value>
+  </data>
+  <data name="logo_amprion" xml:space="preserve">
+    <value>Amprion Logo</value>
+  </data>
+  <data name="logo_tennet" xml:space="preserve">
+    <value>TenneT Logo</value>
+  </data>
+  <data name="logo_transnetbw" xml:space="preserve">
+    <value>TransnetBW Logo</value>
+  </data>
+  <data name="log_in" xml:space="preserve">
+    <value>Anmelden</value>
+  </data>
+  <data name="mix" xml:space="preserve">
+    <value>Mix</value>
+  </data>
+  <data name="more" xml:space="preserve">
+    <value>Mehr</value>
+  </data>
+  <data name="multiple" xml:space="preserve">
+    <value>Mehrere</value>
+  </data>
+  <data name="negative" xml:space="preserve">
+    <value>Negativ</value>
+  </data>
+  <data name="network_operator" xml:space="preserve">
+    <value>Anschlussnetzbetreiber</value>
+  </data>
+  <data name="network_operators" xml:space="preserve">
+    <value>Anschlussnetzbetreiber</value>
+  </data>
+  <data name="network_operator_s" xml:space="preserve">
+    <value>Anschlussnetzbetreiber</value>
+  </data>
+  <data name="network_operator_short" xml:space="preserve">
+    <value>ANB</value>
+  </data>
+  <data name="new_comment" xml:space="preserve">
+    <value>Neuer Kommentar</value>
+  </data>
+  <data name="new_prequalification_request" xml:space="preserve">
+    <value>Neuer Präqualifikationsantrag</value>
+  </data>
+  <data name="notifications" xml:space="preserve">
+    <value>Nachrichten</value>
+  </data>
+  <data name="no_comments_available" xml:space="preserve">
+    <value>Keine Kommentare vorhanden.</value>
+  </data>
+  <data name="no_comment_available" xml:space="preserve">
+    <value>Kein Kommentar vorhanden.</value>
+  </data>
+  <data name="n_api_clients_removed" xml:space="preserve">
+    <value>Es wurden {0} API-Client entfernt.</value>
+  </data>
+  <data name="n_api_clients_remove_failed" xml:space="preserve">
+    <value>{0} API-Clients konnten nicht entfernt werden.</value>
+  </data>
+  <data name="n_api_client_removed" xml:space="preserve">
+    <value>Es wurde {0} API-Client entfernt.</value>
+  </data>
+  <data name="n_api_client_remove_failed" xml:space="preserve">
+    <value>{0} API-Client konnte nicht entfernt werden.</value>
+  </data>
+  <data name="n_concepts_archived" xml:space="preserve">
+    <value>{0} Konzepte archiviert</value>
+  </data>
+  <data name="n_concepts_archive_failed" xml:space="preserve">
+    <value>{0} Konzepte konnten nicht archiviert werden</value>
+  </data>
+  <data name="n_concepts_locked" xml:space="preserve">
+    <value>{0} Konzepte gesperrt</value>
+  </data>
+  <data name="n_concepts_lock_failed" xml:space="preserve">
+    <value>{0} Konzepte konnten nicht gesperrt werden</value>
+  </data>
+  <data name="n_concepts_rejected" xml:space="preserve">
+    <value>{0} Konzepte abgelehnt</value>
+  </data>
+  <data name="n_concepts_reject_failed" xml:space="preserve">
+    <value>{0} Konzepte konnten nicht abgelehnt werden</value>
+  </data>
+  <data name="n_concepts_released" xml:space="preserve">
+    <value>{0} Konzepte freigegeben</value>
+  </data>
+  <data name="n_concepts_release_failed" xml:space="preserve">
+    <value>{0} Konzepte konnten nicht freigegeben werden</value>
+  </data>
+  <data name="n_concepts_request_released" xml:space="preserve">
+    <value>{0} Konzepte warten auf Freigabe</value>
+  </data>
+  <data name="n_concepts_request_release_failed" xml:space="preserve">
+    <value>{0} Konzepte konnten nicht zur Freigabe eingereicht werden</value>
+  </data>
+  <data name="n_concepts_revised" xml:space="preserve">
+    <value>{0} Konzepte können überarbeitet werden</value>
+  </data>
+  <data name="n_concepts_revise_failed" xml:space="preserve">
+    <value>{0} Konzepte lassen keine Überarbeitung zu</value>
+  </data>
+  <data name="n_concepts_unarchived" xml:space="preserve">
+    <value>{0} Konzepte wiederhergestellt</value>
+  </data>
+  <data name="n_concepts_unarchive_failed" xml:space="preserve">
+    <value>{0} Konzepte konnten nicht wiederhergestellt werden</value>
+  </data>
+  <data name="n_concept_archived" xml:space="preserve">
+    <value>{0} Konzept archiviert</value>
+  </data>
+  <data name="n_concept_archive_failed" xml:space="preserve">
+    <value>{0} Konzept konnte nicht archiviert werden</value>
+  </data>
+  <data name="n_concept_connected_contract" xml:space="preserve">
+    <value>{0} Vertrag mit dem Konzept verknüpft</value>
+  </data>
+  <data name="n_concept_connected_contracts" xml:space="preserve">
+    <value>{0} Verträge mit dem Konzept verknüpft</value>
+  </data>
+  <data name="n_concept_connected_contracts_failed" xml:space="preserve">
+    <value>{0} Verträge konnten nicht mit dem Konzept verknüpft werden</value>
+  </data>
+  <data name="n_concept_connected_contract_failed" xml:space="preserve">
+    <value>{0} Vertrag konnte nicht mit dem Konzept verknüpft werden</value>
+  </data>
+  <data name="n_concept_connected_reserve_resource" xml:space="preserve">
+    <value>{0} Einheit für {1} mit dem Konzept verknüpft</value>
+  </data>
+  <data name="n_concept_connected_reserve_resources" xml:space="preserve">
+    <value>{0} Einheiten für {1} mit dem Konzept verknüpft</value>
+  </data>
+  <data name="n_concept_connected_reserve_resources_failed" xml:space="preserve">
+    <value>{0} Einheiten konnten für {1} nicht mit dem Konzept verknüpft werden</value>
+  </data>
+  <data name="n_concept_connected_reserve_resource_failed" xml:space="preserve">
+    <value>{0} Einheit konnte für {1} nicht mit dem Konzept verknüpft werden</value>
+  </data>
+  <data name="n_concept_connections_disconnected" xml:space="preserve">
+    <value>{0} Verknüpfungen gelöst</value>
+  </data>
+  <data name="n_concept_connections_disconnect_failed" xml:space="preserve">
+    <value>{0} Verknüpfungen konnten nicht gelöst werden</value>
+  </data>
+  <data name="n_concept_connection_disconnected" xml:space="preserve">
+    <value>{0} Verknüpfung gelöst</value>
+  </data>
+  <data name="n_concept_connection_disconnect_failed" xml:space="preserve">
+    <value>{0} Verknüpfung konnte nicht gelöst werden</value>
+  </data>
+  <data name="n_concept_locked" xml:space="preserve">
+    <value>{0} Konzept gesperrt</value>
+  </data>
+  <data name="n_concept_lock_failed" xml:space="preserve">
+    <value>{0} Konzept konnte nicht gesperrt werden</value>
+  </data>
+  <data name="n_concept_rejected" xml:space="preserve">
+    <value>{0} Konzept abgelehnt</value>
+  </data>
+  <data name="n_concept_reject_failed" xml:space="preserve">
+    <value>{0} Konzept nicht abgelehnt werden</value>
+  </data>
+  <data name="n_concept_released" xml:space="preserve">
+    <value>{0} Konzept freigegeben</value>
+  </data>
+  <data name="n_concept_release_failed" xml:space="preserve">
+    <value>{0} Konzept konnte nicht freigegeben werden</value>
+  </data>
+  <data name="n_concept_request_released" xml:space="preserve">
+    <value>{0} Konzept wartet auf Freigabe</value>
+  </data>
+  <data name="n_concept_request_release_failed" xml:space="preserve">
+    <value>{0} Konzept konnte nicht zur Freigabe eingereicht werden</value>
+  </data>
+  <data name="n_concept_revised" xml:space="preserve">
+    <value>{0} Konzept kann überarbeitet werden</value>
+  </data>
+  <data name="n_concept_revise_failed" xml:space="preserve">
+    <value>{0} Konzept lässt keine Überarbeitung zu</value>
+  </data>
+  <data name="n_concept_unarchived" xml:space="preserve">
+    <value>{0} Konzept wiederhergestellt</value>
+  </data>
+  <data name="n_concept_unarchive_failed" xml:space="preserve">
+    <value>{0} Konzept konnte nicht wiederhergestellt werden</value>
+  </data>
+  <data name="n_prequalifications_applied_data_as_confirmed" xml:space="preserve">
+    <value>{0} Anträge vervollständigt</value>
+  </data>
+  <data name="n_prequalifications_applied_data_as_confirm_failed" xml:space="preserve">
+    <value>{0} Anträge konnten nicht vervollständigt werden</value>
+  </data>
+  <data name="n_prequalifications_confirmed" xml:space="preserve">
+    <value>{0} Anträge bestätigt</value>
+  </data>
+  <data name="n_prequalifications_confirm_failed" xml:space="preserve">
+    <value>{0} Anträge konnten nicht bestätigt werden</value>
+  </data>
+  <data name="n_prequalifications_prequalified" xml:space="preserve">
+    <value>{0} Anträge präqualifiziert</value>
+  </data>
+  <data name="n_prequalifications_prequalify_failed" xml:space="preserve">
+    <value>{0} Anträge konnten nicht präqualifiziert werden</value>
+  </data>
+  <data name="n_prequalifications_redefined_duration" xml:space="preserve">
+    <value>{0} Laufzeiten neu festgelegt</value>
+  </data>
+  <data name="n_prequalifications_redefine_duration_failed" xml:space="preserve">
+    <value>{0} Laufzeiten konnten nicht neu festgelegt werden</value>
+  </data>
+  <data name="n_prequalifications_rejected" xml:space="preserve">
+    <value>{0} Anträge abgelehnt</value>
+  </data>
+  <data name="n_prequalifications_reject_failed" xml:space="preserve">
+    <value>{0} Anträge konnten nicht abgelehnt werden</value>
+  </data>
+  <data name="n_prequalifications_removed" xml:space="preserve">
+    <value>{0} Anträge entfernt</value>
+  </data>
+  <data name="n_prequalifications_remove_failed" xml:space="preserve">
+    <value>{0} Anträge konnten nicht entfernt werden</value>
+  </data>
+  <data name="n_prequalifications_renewed" xml:space="preserve">
+    <value>{0} Anträge in Planung zurückgesetzt</value>
+  </data>
+  <data name="n_prequalifications_renew_failed" xml:space="preserve">
+    <value>{0} Anträge konnten nicht in Planung zurückgesetzt werden</value>
+  </data>
+  <data name="n_prequalifications_requested" xml:space="preserve">
+    <value>{0} Präqualifikationen beantragt</value>
+  </data>
+  <data name="n_prequalifications_request_failed" xml:space="preserve">
+    <value>{0} Präqualifikationen konnten nicht beantragt werden</value>
+  </data>
+  <data name="n_prequalifications_terminated" xml:space="preserve">
+    <value>{0} Präqualifikationen beendet</value>
+  </data>
+  <data name="n_prequalifications_terminate_failed" xml:space="preserve">
+    <value>{0} Präqualifikationen konnten nicht beendet werden</value>
+  </data>
+  <data name="n_prequalifications_withdrawn" xml:space="preserve">
+    <value>{0} Anträge widerrufen</value>
+  </data>
+  <data name="n_prequalifications_withdrawn_failed" xml:space="preserve">
+    <value>{0} Anträge konnten nicht widerrufen werden</value>
+  </data>
+  <data name="n_prequalification_applied_data_as_confirmed" xml:space="preserve">
+    <value>{0} Antrag vervollständigt</value>
+  </data>
+  <data name="n_prequalification_applied_data_as_confirm_failed" xml:space="preserve">
+    <value>{0} Antrag konnte nicht vervollständigt werden</value>
+  </data>
+  <data name="n_prequalification_confirmed" xml:space="preserve">
+    <value>{0} Antrag bestätigt</value>
+  </data>
+  <data name="n_prequalification_confirm_failed" xml:space="preserve">
+    <value>{0} Antrag konnte nicht bestätigt werden</value>
+  </data>
+  <data name="n_prequalification_prequalified" xml:space="preserve">
+    <value>{0} Antrag präqualifiziert</value>
+  </data>
+  <data name="n_prequalification_prequalify_failed" xml:space="preserve">
+    <value>{0} Antrag konnte nicht präqualifiziert werden</value>
+  </data>
+  <data name="n_prequalification_redefined_duration" xml:space="preserve">
+    <value>{0} Laufzeit neu festgelegt</value>
+  </data>
+  <data name="n_prequalification_redefined_duration_failed" xml:space="preserve">
+    <value>{0} Laufzeit konnte nicht neu festgelegt werden</value>
+  </data>
+  <data name="n_prequalification_rejected" xml:space="preserve">
+    <value>{0} Antrag abgelehnt</value>
+  </data>
+  <data name="n_prequalification_reject_failed" xml:space="preserve">
+    <value>{0} Antrag konnte nicht abgelehnt werden</value>
+  </data>
+  <data name="n_prequalification_removed" xml:space="preserve">
+    <value>{0} Antrag entfernt</value>
+  </data>
+  <data name="n_prequalification_remove_failed" xml:space="preserve">
+    <value>{0} Antrag konnte nicht entfernt werden</value>
+  </data>
+  <data name="n_prequalification_renewed" xml:space="preserve">
+    <value>{0} Antrag in Planung zurückgesetzt</value>
+  </data>
+  <data name="n_prequalification_renew_failed" xml:space="preserve">
+    <value>{0} Antrag konnte nicht in Planung zurückgesetzt werden</value>
+  </data>
+  <data name="n_prequalification_requested" xml:space="preserve">
+    <value>{0} Präqualifikation beantragt</value>
+  </data>
+  <data name="n_prequalification_request_failed" xml:space="preserve">
+    <value>{0} Präqualifikation konnte nicht beantragt werden</value>
+  </data>
+  <data name="n_prequalification_terminated" xml:space="preserve">
+    <value>{0} Präqualifikation beendet</value>
+  </data>
+  <data name="n_prequalification_terminate_failed" xml:space="preserve">
+    <value>{0} Präqualifikation konnte nicht beendet werden</value>
+  </data>
+  <data name="n_prequalification_withdrawn" xml:space="preserve">
+    <value>{0} Antrag widerrufen</value>
+  </data>
+  <data name="n_prequalification_withdrawn_failed" xml:space="preserve">
+    <value>{0} Antrag konnte nicht widerrufen werden</value>
+  </data>
+  <data name="n_selected" xml:space="preserve">
+    <value>{0} ausgewählt</value>
+  </data>
+  <data name="only_visible_for_transmission_operators" xml:space="preserve">
+    <value>Nur für ÜNB sichtbar</value>
+  </data>
+  <data name="overview" xml:space="preserve">
+    <value>Übersicht</value>
+  </data>
+  <data name="page_not_authorized" xml:space="preserve">
+    <value>Nicht autorisiert</value>
+  </data>
+  <data name="page_not_authorized_message" xml:space="preserve">
+    <value>Der Zugriff auf diese Adresse ist Ihnen nicht gestattet.</value>
+  </data>
+  <data name="page_not_found" xml:space="preserve">
+    <value>Seite nicht gefunden.</value>
+  </data>
+  <data name="page_not_found_message" xml:space="preserve">
+    <value>Seite nicht gefunden.</value>
+  </data>
+  <data name="portal_slogan" xml:space="preserve">
+    <value>Präqualifikation für die Vorhaltung und Erbringung von Regelreserve</value>
+  </data>
+  <data name="portal_title" xml:space="preserve">
+    <value>PQ-Portal</value>
+  </data>
+  <data name="positive" xml:space="preserve">
+    <value>Positiv</value>
+  </data>
+  <data name="power" xml:space="preserve">
+    <value>Leistung</value>
+  </data>
+  <data name="power_short" xml:space="preserve">
+    <value>L.</value>
+  </data>
+  <data name="pq_state" xml:space="preserve">
+    <value>PQ-Status</value>
+  </data>
+  <data name="prequalification" xml:space="preserve">
+    <value>Präqualifikation</value>
+  </data>
+  <data name="prequalifications" xml:space="preserve">
+    <value>Präqualifikationen</value>
+  </data>
+  <data name="prequalifications_redefine_duration_advice" xml:space="preserve">
+    <value>Die Laufzeit wird für alle ausgewählten Präqualifikationen begrenzt, für die das angegebene Enddatum zulässig ist. Achtung: Rückwirkende Festlegungen inkl. des heutigen Datums beenden die PQ spätestens zum Tagesende.</value>
+  </data>
+  <data name="prequalification_s" xml:space="preserve">
+    <value>Präqualifikation(en)</value>
+  </data>
+  <data name="prequalification_state_type_can_be_validated_by_me" xml:space="preserve">
+    <value>In Prüfung</value>
+  </data>
+  <data name="prequalification_state_type_is_validated_by_me" xml:space="preserve">
+    <value>In Prüfung</value>
+  </data>
+  <data name="prequalification_state_type_planned" xml:space="preserve">
+    <value>In Planung</value>
+  </data>
+  <data name="prequalification_state_type_prequalified" xml:space="preserve">
+    <value>Aktiv</value>
+  </data>
+  <data name="prequalification_state_type_rejected" xml:space="preserve">
+    <value>Abgelehnt</value>
+  </data>
+  <data name="prequalification_state_type_requested" xml:space="preserve">
+    <value>Beantragt</value>
+  </data>
+  <data name="prequalification_state_type_terminated" xml:space="preserve">
+    <value>Beendet</value>
+  </data>
+  <data name="prequalification_state_type_validated" xml:space="preserve">
+    <value>In Prüfung</value>
+  </data>
+  <data name="prequalification_type" xml:space="preserve">
+    <value>PQ-Form</value>
+  </data>
+  <data name="prequalification_type_first" xml:space="preserve">
+    <value>Erst-PQ</value>
+  </data>
+  <data name="prequalification_type_modify" xml:space="preserve">
+    <value>Änd.-PQ</value>
+  </data>
+  <data name="prequalification_type_renew" xml:space="preserve">
+    <value>Wdh.-PQ</value>
+  </data>
+  <data name="prequalification_type_short" xml:space="preserve">
+    <value>PQ-Form</value>
+  </data>
+  <data name="prequalification_until" xml:space="preserve">
+    <value>Präqualifikation bis</value>
+  </data>
+  <data name="prequalify" xml:space="preserve">
+    <value>Präqualifizieren</value>
+  </data>
+  <data name="pre_release" xml:space="preserve">
+    <value>Unreleased</value>
+  </data>
+  <data name="pre_release_title" xml:space="preserve">
+    <value>Diese Änderungen gelten ab {0}</value>
+  </data>
+  <data name="principal_does_not_have_any_required_roles" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, diese Aktion durchzuführen.</value>
+  </data>
+  <data name="privacy" xml:space="preserve">
+    <value>Datenschutz</value>
+  </data>
+  <data name="product" xml:space="preserve">
+    <value>Produkt</value>
+  </data>
+  <data name="products" xml:space="preserve">
+    <value>Produkte</value>
+  </data>
+  <data name="product_s" xml:space="preserve">
+    <value>Produkt(e)</value>
+  </data>
+  <data name="profile" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="proof_of_performance" xml:space="preserve">
+    <value>Erbringungsnachweis</value>
+  </data>
+  <data name="proof_of_performance_short" xml:space="preserve">
+    <value>ENW</value>
+  </data>
+  <data name="proof_of_performance_type_double_stroke_curve" xml:space="preserve">
+    <value>DHK</value>
+  </data>
+  <data name="proof_of_performance_type_none" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="proof_of_performance_type_single_stroke_curve" xml:space="preserve">
+    <value>Real</value>
+  </data>
+  <data name="proof_of_performance_type_synthetic_double_stroke_curve" xml:space="preserve">
+    <value>sDHK</value>
+  </data>
+  <data name="proof_of_performance_type_synthetic_quality_metrics" xml:space="preserve">
+    <value>KGB</value>
+  </data>
+  <data name="quality_metrics_evaluation" xml:space="preserve">
+    <value>Kenngrößenbewertung</value>
+  </data>
+  <data name="real_delivery" xml:space="preserve">
+    <value>Reale Erbringung</value>
+  </data>
+  <data name="redefine_duration" xml:space="preserve">
+    <value>Laufzeit neu festlegen</value>
+  </data>
+  <data name="refresh" xml:space="preserve">
+    <value>Aktualisieren</value>
+  </data>
+  <data name="refresh_grid" xml:space="preserve">
+    <value>Inhalte aktualisieren</value>
+  </data>
+  <data name="reject" xml:space="preserve">
+    <value>Ablehnen</value>
+  </data>
+  <data name="release" xml:space="preserve">
+    <value>Freigeben</value>
+  </data>
+  <data name="release_title" xml:space="preserve">
+    <value>Änderungen vom {0}</value>
+  </data>
+  <data name="release_will_be_requested_for_following_concepts" xml:space="preserve">
+    <value>Freigabe anfordern</value>
+  </data>
+  <data name="remove" xml:space="preserve">
+    <value>Entfernen</value>
+  </data>
+  <data name="remove_api_client" xml:space="preserve">
+    <value>API-Client entfernen</value>
+  </data>
+  <data name="remove_api_clients" xml:space="preserve">
+    <value>API-Clients entfernen</value>
+  </data>
+  <data name="renew" xml:space="preserve">
+    <value>Neu bearbeiten</value>
+  </data>
+  <data name="request" xml:space="preserve">
+    <value>Beantragen</value>
+  </data>
+  <data name="request_release" xml:space="preserve">
+    <value>Freigabe anfordern</value>
+  </data>
+  <data name="reserve_direction_negative" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="reserve_direction_positive" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="reserve_group" xml:space="preserve">
+    <value>Reservegruppe</value>
+  </data>
+  <data name="reserve_groups" xml:space="preserve">
+    <value>Reservegruppen</value>
+  </data>
+  <data name="reserve_group_s" xml:space="preserve">
+    <value>Reservegruppe(n)</value>
+  </data>
+  <data name="reserve_group_short" xml:space="preserve">
+    <value>RG</value>
+  </data>
+  <data name="reserve_resource" xml:space="preserve">
+    <value>Einheit</value>
+  </data>
+  <data name="reserve_resources" xml:space="preserve">
+    <value>Einheiten</value>
+  </data>
+  <data name="reserve_resource_description" xml:space="preserve">
+    <value>Bezeichnung der Einheit</value>
+  </data>
+  <data name="reserve_resource_number" xml:space="preserve">
+    <value>Nummer der Einheit</value>
+  </data>
+  <data name="reserve_resource_type_reserve_group" xml:space="preserve">
+    <value>Reservegruppe</value>
+  </data>
+  <data name="reserve_resource_type_reserve_unit" xml:space="preserve">
+    <value>Reserveeinheit</value>
+  </data>
+  <data name="reserve_resource_type_technical_unit" xml:space="preserve">
+    <value>Technische Einheit</value>
+  </data>
+  <data name="reserve_type" xml:space="preserve">
+    <value>Regelreserve</value>
+  </data>
+  <data name="reserve_types" xml:space="preserve">
+    <value>Regelreservearten</value>
+  </data>
+  <data name="reserve_type_afrr" xml:space="preserve">
+    <value>aFRR</value>
+  </data>
+  <data name="reserve_type_afrr_negative" xml:space="preserve">
+    <value>aFRR -</value>
+  </data>
+  <data name="reserve_type_afrr_positive" xml:space="preserve">
+    <value>aFRR +</value>
+  </data>
+  <data name="reserve_type_fcr" xml:space="preserve">
+    <value>FCR</value>
+  </data>
+  <data name="reserve_type_fcr_negative" xml:space="preserve">
+    <value>FCR -</value>
+  </data>
+  <data name="reserve_type_fcr_positive" xml:space="preserve">
+    <value>FCR +</value>
+  </data>
+  <data name="reserve_type_mfrr" xml:space="preserve">
+    <value>mFRR</value>
+  </data>
+  <data name="reserve_type_mfrr_negative" xml:space="preserve">
+    <value>mFRR -</value>
+  </data>
+  <data name="reserve_type_mfrr_positive" xml:space="preserve">
+    <value>mFRR +</value>
+  </data>
+  <data name="reserve_type_s" xml:space="preserve">
+    <value>Regelreserveart(en)</value>
+  </data>
+  <data name="reserve_unit" xml:space="preserve">
+    <value>Reserveeinheit</value>
+  </data>
+  <data name="reserve_units" xml:space="preserve">
+    <value>Reserveeinheiten</value>
+  </data>
+  <data name="reserve_unit_s" xml:space="preserve">
+    <value>Reserveeinheit(en)</value>
+  </data>
+  <data name="reserve_unit_short" xml:space="preserve">
+    <value>RE</value>
+  </data>
+  <data name="reset_password" xml:space="preserve">
+    <value>Passwort ändern</value>
+  </data>
+  <data name="results" xml:space="preserve">
+    <value>Ergebnisse</value>
+  </data>
+  <data name="reviewed_by_me" xml:space="preserve">
+    <value>von mir geprüft</value>
+  </data>
+  <data name="revise" xml:space="preserve">
+    <value>Überarbeiten</value>
+  </data>
+  <data name="scopes" xml:space="preserve">
+    <value>Scopes</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>Suchen</value>
+  </data>
+  <data name="search_pq_id" xml:space="preserve">
+    <value>Suche nach PQID</value>
+  </data>
+  <data name="select_all" xml:space="preserve">
+    <value>Alle auswählen</value>
+  </data>
+  <data name="select_all_items" xml:space="preserve">
+    <value>Alle Elemente auswählen</value>
+  </data>
+  <data name="select_deselect_all" xml:space="preserve">
+    <value>Alle auswählen/abwählen</value>
+  </data>
+  <data name="evaluation_of_the_proof_of_performance" xml:space="preserve">
+    <value>Bewertung des Erbringungsnachweises</value>
+  </data>
+  <data name="send_preannouncement" xml:space="preserve">
+    <value>API Vorankündigung</value>
+  </data>
+  <data name="send_release_announcement" xml:space="preserve">
+    <value>API Release</value>
+  </data>
+  <data name="settings" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="show_details" xml:space="preserve">
+    <value>Details anzeigen</value>
+  </data>
+  <data name="show_more_actions" xml:space="preserve">
+    <value>Weitere Aktionen anzeigen...</value>
+  </data>
+  <data name="show_preview" xml:space="preserve">
+    <value>Vorschau</value>
+  </data>
+  <data name="smiley_happy" xml:space="preserve">
+    <value>:)</value>
+  </data>
+  <data name="smiley_neutral" xml:space="preserve">
+    <value>:|</value>
+  </data>
+  <data name="smiley_sad" xml:space="preserve">
+    <value>:(</value>
+  </data>
+  <data name="state" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="subject_preannouncement" xml:space="preserve">
+    <value>PQ-Portal: Upcoming Changes API</value>
+  </data>
+  <data name="subject_release_announcement" xml:space="preserve">
+    <value>PQ-Portal: Latest Changes API</value>
+  </data>
+  <data name="synthetic_double_stroke_curve" xml:space="preserve">
+    <value>Synthetische DHK</value>
+  </data>
+  <data name="system_management" xml:space="preserve">
+    <value>Systemführung</value>
+  </data>
+  <data name="take_over_data" xml:space="preserve">
+    <value>Daten übernehmen</value>
+  </data>
+  <data name="technical_unit" xml:space="preserve">
+    <value>Technische Einheit</value>
+  </data>
+  <data name="technical_units" xml:space="preserve">
+    <value>Technische Einheiten</value>
+  </data>
+  <data name="technical_units_selected" xml:space="preserve">
+    <value>{0} Technische Einheiten ausgewählt</value>
+  </data>
+  <data name="technical_unit_s" xml:space="preserve">
+    <value>Technische Einheit(en)</value>
+  </data>
+  <data name="technical_unit_short" xml:space="preserve">
+    <value>TE</value>
+  </data>
+  <data name="technologies" xml:space="preserve">
+    <value>Technologien</value>
+  </data>
+  <data name="technology" xml:space="preserve">
+    <value>Technologie</value>
+  </data>
+  <data name="technology_short" xml:space="preserve">
+    <value>Tech.</value>
+  </data>
+  <data name="technolog_y_ies" xml:space="preserve">
+    <value>Technologie(n)</value>
+  </data>
+  <data name="terminate" xml:space="preserve">
+    <value>Beenden</value>
+  </data>
+  <data name="terminate_concept_security_advice" xml:space="preserve">
+    <value>Das Sperren kann nicht rückgängig gemacht werden. Die Bearbeitung oder Verknüpfung des Dokuments ist danach nicht mehr möglich.</value>
+  </data>
+  <data name="to_the_check" xml:space="preserve">
+    <value>Zum Prüfstand hinzufügen</value>
+  </data>
+  <data name="transmission_operator" xml:space="preserve">
+    <value>Übertragungsnetzbetreiber</value>
+  </data>
+  <data name="transmission_operators" xml:space="preserve">
+    <value>Übertragungsnetzbetreiber</value>
+  </data>
+  <data name="transmission_operator_s" xml:space="preserve">
+    <value>Übertragungsnetzbetreiber</value>
+  </data>
+  <data name="transmission_operator_short" xml:space="preserve">
+    <value>ÜNB</value>
+  </data>
+  <data name="unarchive" xml:space="preserve">
+    <value>Wiederherstellen</value>
+  </data>
+  <data name="unit" xml:space="preserve">
+    <value>Einheit</value>
+  </data>
+  <data name="units" xml:space="preserve">
+    <value>Einheiten</value>
+  </data>
+  <data name="unit_s" xml:space="preserve">
+    <value>Einheit(en)</value>
+  </data>
+  <data name="unknown" xml:space="preserve">
+    <value>Unbekannt</value>
+  </data>
+  <data name="until" xml:space="preserve">
+    <value>bis</value>
+  </data>
+  <data name="update" xml:space="preserve">
+    <value>Aktualisieren</value>
+  </data>
+  <data name="update_comment" xml:space="preserve">
+    <value>Kommentar ändern</value>
+  </data>
+  <data name="update_document" xml:space="preserve">
+    <value>Dokument aktualisieren</value>
+  </data>
+  <data name="update_document_warning" xml:space="preserve">
+    <value>Bitte beachten Sie, dass mit dem Hochladen eines neuen Dokuments die alte Version nicht mehr verfügbar ist.</value>
+  </data>
+  <data name="upload" xml:space="preserve">
+    <value>Upload</value>
+  </data>
+  <data name="uploaded_by" xml:space="preserve">
+    <value>Hochgeladen von</value>
+  </data>
+  <data name="uploaded_on" xml:space="preserve">
+    <value>Hochgeladen am</value>
+  </data>
+  <data name="valid_value_must_be_entered" xml:space="preserve">
+    <value>Geben Sie ein gültiges {PropertyName} ein.</value>
+  </data>
+  <data name="value_must_be_entered" xml:space="preserve">
+    <value>Geben Sie ein {PropertyName} ein.</value>
+  </data>
+  <data name="value_must_be_entered_f" xml:space="preserve">
+    <value>Geben Sie eine {PropertyName} ein.</value>
+  </data>
+  <data name="version" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="version_name" xml:space="preserve">
+    <value>Versionsbezeichnung</value>
+  </data>
+  <data name="version_number" xml:space="preserve">
+    <value>Versionsnummer</value>
+  </data>
+  <data name="version_section" xml:space="preserve">
+    <value>PQ-Portal Version</value>
+  </data>
+  <data name="will_be_loaded" xml:space="preserve">
+    <value>Wird geladen...</value>
+  </data>
+  <data name="withdraw" xml:space="preserve">
+    <value>Widerrufen</value>
+  </data>
+  <data name="would_you_like_to_continue" xml:space="preserve">
+    <value>Möchten Sie fortfahren?</value>
+  </data>
+  <data name="display_of_terminated_prequalifications" xml:space="preserve">
+    <value>Beendete Präqualifikationen anzeigen/ausblenden</value>
+  </data>
+  <data name="display_of_prequalification_groups" xml:space="preserve">
+    <value>Alle Elemente aus-/einblenden</value>
+  </data>
+  <data name="search_pq_id_help" xml:space="preserve">
+    <value>PQIDs können mit oder ohne führende Nullen gesucht und mit Leerzeichen verkettet werden</value>
+  </data>
 </root>

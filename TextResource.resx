@@ -121,6 +121,9 @@
             PublicKeyToken=b77a5c561934e089
         </value>
   </resheader>
+  <data name="dummy" xml:space="preserve">
+        <value>Dummy</value>
+  </data>
   <data name="action" xml:space="preserve">
         <value>Aktion</value>
   </data>
